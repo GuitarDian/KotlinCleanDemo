@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar_base" type="id"/>
+    <item name="root" type="id"/>
+    <item name="iv_toolbar_back" type="id"/>
+    <item name="tv_toolbar_title" type="id"/>
+    <item name="fl_content" type="id"/>
+    <item name="fl_right_content" type="id"/>
+
+    <item name="view_line" type="id"/>
+    <item name="btn_refresh" type="id"/>
+    <item name="btn_retry" type="id"/>
+
+    <item name="srl_refresh" type="id"/>
+    <item name="ll_no_data" type="id"/>
+    <item name="ll_loading" type="id"/>
+    <item name="ll_pop_take_photo" type="id"/>
+</resources>
