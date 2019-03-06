@@ -1,0 +1,2 @@
+# KotlinCleanDemo
+androidx + kotlin + clean
